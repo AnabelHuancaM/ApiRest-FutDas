@@ -1,0 +1,655 @@
+{
+  "articulos": [
+    {
+      "id": "0001A",
+      "nombre:": "Audifonos Bluethooth",
+      "precio": "140",
+      "marca:": "Uby",
+      "stock": "15"
+    },
+    {
+      "id": "0001B",
+      "nombre:": "Audifonos Bluethooth",
+      "precio": "44",
+      "marca:": "Generico",
+      "stock": "50"
+    },
+    {
+      "id": "0001C",
+      "nombre:": "Audifonos Bluethooth",
+      "precio": "119",
+      "marca:": "Haylou",
+      "stock": "19"
+    },
+    {
+      "id": "0001D",
+      "nombre:": "Audifonos Bluethooth",
+      "precio": "179",
+      "marca:": "Panasonic",
+      "stock": "5"
+    },
+    {
+      "id": "0001E",
+      "nombre:": "Audifonos Bluethooth",
+      "precio": "549",
+      "marca:": "Panasonic",
+      "stock": "15"
+    },
+    {
+      "id": "0001F",
+      "nombre:": "Audifonos Bluethooth",
+      "precio": "1309.90",
+      "marca:": "Plantronics",
+      "stock": "23"
+    },
+    {
+      "id": "0001G",
+      "nombre:": "Audifonos Bluethooth",
+      "precio": "199.90",
+      "marca:": "Sony",
+      "stock": "30"
+    },
+    {
+      "id": "0001H",
+      "nombre:": "Audifonos Bluethooth",
+      "precio": "1249.90",
+      "marca:": "Sony",
+      "stock": "20"
+    },
+    {
+      "id": "0001I",
+      "nombre:": "Audifonos para celular",
+      "precio": "140",
+      "marca:": "DEVICEMATE",
+      "stock": "40"
+    },
+    {
+      "id": "0001J",
+      "nombre:": "Audifonos para celular",
+      "precio": "84",
+      "marca:": "Philips",
+      "stock": "8"
+    },
+    {
+      "id": "0001K",
+      "nombre:": "Audifonos para celular",
+      "precio": "49.90",
+      "marca:": "Samsung",
+      "stock": "54"
+    },
+    {
+      "id": "0001L",
+      "nombre:": "Audifonos para celular",
+      "precio": "99.99",
+      "marca:": "Panasonic",
+      "stock": "21"
+    },
+    {
+      "id": "0001M",
+      "nombre:": "Audifonos para celular",
+      "precio": "79.99",
+      "marca:": "Sony",
+      "stock": "14"
+    },
+    {
+      "id": "0001N",
+      "nombre:": "Audifonos para celular",
+      "precio": "24.90",
+      "marca:": "MOTOROLA",
+      "stock": "5"
+    },
+    {
+      "id": "0001Ñ",
+      "nombre:": "Audifonos para celular",
+      "precio": "49.99",
+      "marca:": "Philips",
+      "stock": "36"
+    },
+    {
+      "id": "0001O",
+      "nombre:": "Audifonos para celular",
+      "precio": "49.90",
+      "marca:": "Samsung",
+      "stock": "50"
+    },
+    {
+      "id": "0001P",
+      "nombre:": "Audifonos Gamer",
+      "precio": "140",
+      "marca:": "Apple",
+      "stock": "30"
+    },
+    {
+      "id": "0001Q",
+      "nombre:": "Audifonos Gamer",
+      "precio": "69.90",
+      "marca:": "Aoas",
+      "stock": "13"
+    },
+    {
+      "id": "0001R",
+      "nombre:": "Audifonos Gamer",
+      "precio": "309.90",
+      "marca:": "Redragon",
+      "stock": "11"
+    },
+    {
+      "id": "0001S",
+      "nombre:": "Audifonos Gamer",
+      "precio": "684.99",
+      "marca:": "Logitch",
+      "stock": "60"
+    },
+    {
+      "id": "0001T",
+      "nombre:": "Audifonos Gamer",
+      "precio": "79.00",
+      "marca:": "Razer",
+      "stock": "23"
+    },
+    {
+      "id": "0001U",
+      "nombre:": "Audifonos Gamer",
+      "precio": "599.90",
+      "marca:": "Logitech",
+      "stock": "19"
+    },
+    {
+      "id": "0001V",
+      "nombre:": "Audifonos Gamer",
+      "precio": "169.90",
+      "marca:": "Redragon",
+      "stock": "7"
+    },
+    {
+      "id": "0001W",
+      "nombre:": "Audifonos Gamer",
+      "precio": "79.90",
+      "marca:": "GENERICO",
+      "stock": "9"
+    },
+    {
+      "id": "0001X",
+      "nombre:": "Audifonos Inalámbricos",
+      "precio": "699.00",
+      "marca:": "Samsung",
+      "stock": "29"
+    },
+    {
+      "id": "0001Y",
+      "nombre:": "Audifonos Inalámbricos",
+      "precio": "799.00",
+      "marca:": "Beats",
+      "stock": "23"
+    },
+    {
+      "id": "0001Z",
+      "nombre:": "Audifonos Inalámbricos",
+      "precio": "399.00",
+      "marca:": "BINDEN",
+      "stock": "14"
+    },
+    {
+      "id": "0002A",
+      "nombre:": "Audifonos Inalámbricos",
+      "precio": "499.00",
+      "marca:": "Circulo Store",
+      "stock": "14"
+    },
+    {
+      "id": "0002B",
+      "nombre:": "Audifonos Inalámbricos",
+      "precio": "899.00",
+      "marca:": "JAYBIRD",
+      "stock": "29"
+    },
+    {
+      "id": "0002C",
+      "nombre:": "Audifonos Inalámbricos",
+      "precio": "695.00",
+      "marca:": "Motorola",
+      "stock": "25"
+    },
+    {
+      "id": "0002D",
+      "nombre:": "Audifonos Inalámbricos",
+      "precio": "616.00",
+      "marca:": "Samsung",
+      "stock": "56"
+    },
+    {
+      "id": "0002E",
+      "nombre:": "Audifonos Inalámbricos",
+      "precio": "422.90",
+      "marca:": "Xiaomi",
+      "stock": "16"
+    },
+    {
+      "id": "0002F",
+      "nombre:": "Silla gamer",
+      "precio": "140.90",
+      "marca:": "BONNO",
+      "stock": "16"
+    },
+    {
+      "id": "0002G",
+      "nombre:": "Silla gamer",
+      "precio": "749",
+      "marca:": "TECHNISPORT",
+      "stock": "50"
+    },
+    {
+      "id": "0002H",
+      "nombre:": "Silla gamer",
+      "precio": "119",
+      "marca:": "MICA",
+      "stock": "60"
+    },
+    {
+      "id": "0002I",
+      "nombre:": "Silla gamer",
+      "precio": "179",
+      "marca:": "ZIYAZ",
+      "stock": "50"
+    },
+    {
+      "id": "0002J",
+      "nombre:": "Silla gamer",
+      "precio": "1.099",
+      "marca:": "Bunny",
+      "stock": "15"
+    },
+    {
+      "id": "0002K",
+      "nombre:": "Silla gamer",
+      "precio": "1279",
+      "marca:": "BONNO",
+      "stock": "10"
+    },
+    {
+      "id": "0002L",
+      "nombre:": "Silla gamer",
+      "precio": "749",
+      "marca:": "Matrix",
+      "stock": "19"
+    },
+    {
+      "id": "0002M",
+      "nombre:": "Silla gamer",
+      "precio": "549",
+      "marca:": "SGNE",
+      "stock": "25"
+    },
+    {
+      "id": "0002N",
+      "nombre:": "Memoria 8GB",
+      "precio": "27",
+      "marca:": "Adata",
+      "stock": "15"
+    },
+    {
+      "id": "0002Ñ",
+      "nombre:": "Memoria 8GB",
+      "precio": "25",
+      "marca:": "Kingston",
+      "stock": "25"
+    },
+    {
+      "id": "0002O",
+      "nombre:": "Memoria 8GB",
+      "precio": "39",
+      "marca:": "sanDisk",
+      "stock": "14"
+    },
+    {
+      "id": "0002P",
+      "nombre:": "Memoria 8GB",
+      "precio": "24",
+      "marca:": "Xedain",
+      "stock": "20"
+    },
+    {
+      "id": "0002Q",
+      "nombre:": "Memoria 8GB",
+      "precio": "13.99",
+      "marca:": "Sandisk",
+      "stock": "5"
+    },
+    {
+      "id": "0002R",
+      "nombre:": "Memoria 8GB",
+      "precio": "39.90",
+      "marca:": "Sandisk",
+      "stock": "23"
+    },
+    {
+      "id": "0002S",
+      "nombre:": "Memoria 8GB",
+      "precio": "24.99",
+      "marca:": "Team Group",
+      "stock": "23"
+    },
+    {
+      "id": "0002T",
+      "nombre:": "Memoria 8GB",
+      "precio": "24.99",
+      "marca:": "Team Group",
+      "stock": "23"
+    },
+    {
+      "id": "0002U",
+      "nombre:": "Memoria 32 gb",
+      "precio": "44.90",
+      "marca:": "HP",
+      "stock": "25"
+    },
+    {
+      "id": "0002V",
+      "nombre:": "Memoria 32 gb",
+      "precio": "37.90",
+      "marca:": "Kingston",
+      "stock": "5"
+    },
+    {
+      "id": "0002W",
+      "nombre:": "Memoria 32 gb",
+      "precio": "39.90",
+      "marca:": "Lexar",
+      "stock": "15"
+    },
+    {
+      "id": "0002X",
+      "nombre:": "Memoria 32 gb",
+      "precio": "109.90",
+      "marca:": "SanDisk",
+      "stock": "16"
+    },
+    {
+      "id": "0002Y",
+      "nombre:": "Memoria 32 gb",
+      "precio": "69.99",
+      "marca:": "Kingston",
+      "stock": "10"
+    },
+    {
+      "id": "0002Z",
+      "nombre:": "Memoria 32 gb",
+      "precio": "69.90",
+      "marca:": "Sony",
+      "stock": "5"
+    },
+    {
+      "id": "0003A",
+      "nombre:": "Memoria 32 gb",
+      "precio": "39.90",
+      "marca:": "Kingston",
+      "stock": "30"
+    },
+    {
+      "id": "0003B",
+      "nombre:": "Memoria 64 gb",
+      "precio": "89.90",
+      "marca:": "HP",
+      "stock": "20"
+    },
+    {
+      "id": "0003C",
+      "nombre:": "Memoria 64 gb",
+      "precio": "89.90",
+      "marca:": "Kingston",
+      "stock": "20"
+    },
+    {
+      "id": "0003D",
+      "nombre:": "Memoria 64 gb",
+      "precio": "43.74",
+      "marca:": "Maxell",
+      "stock": "32"
+    },
+    {
+      "id": "0003E",
+      "nombre:": "Memoria 64 gb",
+      "precio": "50.00",
+      "marca:": "Memory Card",
+      "stock": "29"
+    },
+    {
+      "id": "0003F",
+      "nombre:": "Memoria 64 gb",
+      "precio": "89.99",
+      "marca:": "Samsung",
+      "stock": "26"
+    },
+    {
+      "id": "0003H",
+      "nombre:": "Memoria 64 gb",
+      "precio": "89.90",
+      "marca:": "SanDisk",
+      "stock": "36"
+    },
+    {
+      "id": "0003I",
+      "nombre:": "Memoria 64 gb",
+      "precio": "79.90",
+      "marca:": "SanDisk",
+      "stock": "17"
+    },
+    {
+      "id": "0003J",
+      "nombre:": "Memoria 64 gb",
+      "precio": "89.90",
+      "marca:": "SanDisk",
+      "stock": "20"
+    },
+    {
+      "id": "0003K",
+      "nombre:": "Memoria 128 gb",
+      "precio": "149.90",
+      "marca:": "Lexar",
+      "stock": "25"
+    },
+    {
+      "id": "0003L",
+      "nombre:": "Memoria 128 gb",
+      "precio": "138.90",
+      "marca:": "Gigastone",
+      "stock": "17"
+    },
+    {
+      "id": "0003M",
+      "nombre:": "Memoria 128 gb",
+      "precio": "159.90",
+      "marca:": "Kingston",
+      "stock": "15"
+    },
+    {
+      "id": "0003N",
+      "nombre:": "Memoria 128 gb",
+      "precio": "144.90",
+      "marca:": "Memory Card",
+      "stock": "10"
+    },
+    {
+      "id": "0003Ñ",
+      "nombre:": "Memoria 128 gb",
+      "precio": "159.90",
+      "marca:": "Kingston",
+      "stock": "20"
+    },
+    {
+      "id": "0003O",
+      "nombre:": "Memoria 128 gb",
+      "precio": "79.90",
+      "marca:": "Samsung",
+      "stock": "40"
+    },
+    {
+      "id": "0003P",
+      "nombre:": "Memoria 128 gb",
+      "precio": "349.90",
+      "marca:": "Sony",
+      "stock": "15"
+    },
+    {
+      "id": "0003Q",
+      "nombre:": "Memoria 128 gb",
+      "precio": "97.90",
+      "marca:": "SanDisk",
+      "stock": "10"
+    },
+    {
+      "id": "0003R",
+      "nombre:": "Teclado de Ofimática",
+      "precio": "49.90",
+      "marca:": "CYBERTEL",
+      "stock": "15"
+    },
+    {
+      "id": "0003S",
+      "nombre:": "Teclado de Ofimática",
+      "precio": "29.90",
+      "marca:": "FIDDLER",
+      "stock": "13"
+    },
+    {
+      "id": "0003T",
+      "nombre:": "Teclado de Ofimática",
+      "precio": "39.90",
+      "marca:": "CYBERTEL",
+      "stock": "20"
+    },
+    {
+      "id": "0003U",
+      "nombre:": "Teclado de Ofimática",
+      "precio": "64.90",
+      "marca:": "MICRONICS",
+      "stock": "20"
+    },
+    {
+      "id": "0003V",
+      "nombre:": "Teclado de Ofimática",
+      "precio": "39.90",
+      "marca:": "CYBERTEL",
+      "stock": "17"
+    },
+    {
+      "id": "0003W",
+      "nombre:": "Teclado de Ofimática",
+      "precio": "39.90",
+      "marca:": "CYBERTEL",
+      "stock": "30"
+    },
+    {
+      "id": "0003X",
+      "nombre:": "Teclado de Ofimática",
+      "precio": "59.90",
+      "marca:": "DDESIGN",
+      "stock": "36"
+    },
+    {
+      "id": "0003Y",
+      "nombre:": "Teclado de Ofimática",
+      "precio": "59.90",
+      "marca:": "MICRONICS",
+      "stock": "22"
+    },
+    {
+      "id": "0003Z",
+      "nombre:": "Teclado Gamer",
+      "precio": "74.90",
+      "marca:": "CYBERTEL",
+      "stock": "36"
+    },
+    {
+      "id": "0004A",
+      "nombre:": "Teclado Gamer",
+      "precio": "199.90",
+      "marca:": "MICRONICS",
+      "stock": "50"
+    },
+    {
+      "id": "0004B",
+      "nombre:": "Teclado Gamer",
+      "precio": "339.90",
+      "marca:": "REDRAGON",
+      "stock": "23"
+    },
+    {
+      "id": "0004C",
+      "nombre:": "Teclado Gamer",
+      "precio": "162.90",
+      "marca:": "THERMALTAKE",
+      "stock": "40"
+    },
+    {
+      "id": "0004D",
+      "nombre:": "Teclado Gamer",
+      "precio": "69.90",
+      "marca:": "DAWA",
+      "stock": "35"
+    },
+    {
+      "id": "0004E",
+      "nombre:": "Teclado Gamer",
+      "precio": "129.90",
+      "marca:": "REDRAGON",
+      "stock": "30"
+    },
+    {
+      "id": "0004F",
+      "nombre:": "Teclado Gamer",
+      "precio": "199.90",
+      "marca:": "REDRAGON",
+      "stock": "39"
+    },
+    {
+      "id": "0004G",
+      "nombre:": "Teclado Gamer",
+      "precio": "49.90",
+      "marca:": "WESDAR",
+      "stock": "50"
+    },
+    {
+      "id": "0004H",
+      "nombre:": "Galaxy A03s",
+      "precio": "569",
+      "marca:": "Samsung",
+      "stock": "60"
+    },
+    {
+      "id": "0004I",
+      "nombre:": "A22 64GB Negro",
+      "precio": "949",
+      "marca:": "Samsung",
+      "stock": "45"
+    },
+    {
+      "id": "0004J",
+      "nombre:": "Galaxy A12",
+      "precio": "849",
+      "marca:": "Samsung",
+      "stock": "50"
+    },
+    {
+      "id": "0004K",
+      "nombre:": "Galaxy A32",
+      "precio": "1.099",
+      "marca:": "Samsung",
+      "stock": "120"
+    },
+    {
+      "id": "0004L",
+      "nombre:": "Galaxy A25S",
+      "precio": "2.149",
+      "marca:": "Samsung",
+      "stock": "200"
+    },
+    {
+      "id": "0004M",
+      "nombre:": "Galaxy S21",
+      "precio": "3.699",
+      "marca:": "Samsung",
+      "stock": "10"
+    }
+  ]
+}
