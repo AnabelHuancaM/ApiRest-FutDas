@@ -629,27 +629,7 @@
       "precio": "849",
       "marca:": "Samsung",
       "stock": "50"
-    },
-    {
-      "id": "0004K",
-      "nombre:": "Galaxy A32",
-      "precio": "1.099",
-      "marca:": "Samsung",
-      "stock": "120"
-    },
-    {
-      "id": "0004L",
-      "nombre:": "Galaxy A25S",
-      "precio": "2.149",
-      "marca:": "Samsung",
-      "stock": "200"
-    },
-    {
-      "id": "0004M",
-      "nombre:": "Galaxy S21",
-      "precio": "3.699",
-      "marca:": "Samsung",
-      "stock": "10"
     }
+ 
   ]
 }
