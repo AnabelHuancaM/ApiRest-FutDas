@@ -9,3 +9,4 @@ npm i nodemon -D
 
 node index.js
 
+http://localhost:10801/articulos
