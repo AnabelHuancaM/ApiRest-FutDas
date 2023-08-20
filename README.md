@@ -1,5 +1,5 @@
 # ApiRest
-API REST práctica II ciclo usando Postman y Node JS en el curso Desarrollo y Soporte Multiplataforma II ciclo
+API REST práctica II ciclo usando Postman y Node JS en el curso Desarrollo y Soporte Multiplataforma
 
 
 ## Available Scripts
@@ -21,7 +21,7 @@ Ejecutar nodemon en la consola
 
 ### `node index.js`
 
-###
+#####
 ## Tecnologías
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
