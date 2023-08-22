@@ -1,6 +1,5 @@
-# ApiRest
+# API Rest
 API REST práctica II ciclo usando Postman y Node JS en el curso Desarrollo y Soporte Multiplataforma
-
 
 ## Available Scripts
 
@@ -34,4 +33,9 @@ Ejecutar nodemon en la consola
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+</div>
+
+###
 </div>
